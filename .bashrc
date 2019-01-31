@@ -5,6 +5,7 @@ alias lg1="git log --graph --abbrev-commit --decorate --format=format:'%C(bold b
 alias rm='rm -i'
 alias cp='cp -i'
 alias mv='mv -i'
+alias less='less -R'
 
 # Source global definitions
 if [ -f /etc/bashrc ]; then
